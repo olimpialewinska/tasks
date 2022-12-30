@@ -89,7 +89,7 @@
                                 <span class="input-group-text" id="inputGroup-sizing-default">Imie:</span>
                                 <input type="text" class="form-control" aria-label="Sizing example input" name = "name" aria-describedby="inputGroup-sizing-default" required>
                             </div>
-                            <button type="submit" class="btn btn-primary btn-block mb-4">Dodaj</button>
+                            <button type="submit" class="btn btn-primary me-md-2">Dodaj</button>
                             </form>
                         </div>
                     </div>

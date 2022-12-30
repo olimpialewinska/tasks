@@ -93,7 +93,7 @@
                                     <textarea class="form-control" data-val="true" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" data-val-length="Maximum = 2045 characters" data-val-length-max="2045" id="info" name="description" rows="3" style="width:100%" placeholder="Opis..." required></textarea>
 
                                 </div>
-                                <button type="submit" class="btn btn-primary btn-block mb-4">Dodaj</button>
+                                <button type="submit" class="btn btn-primary me-md-2">Dodaj</button>
                             </form>
                         </div>
                     </div>
